@@ -1,0 +1,11 @@
+{
+  "name": "taller-graficas",
+  "version": "1.0.0",
+  "description": "a game so i can end the semester T.T",
+  "main": "index.js",
+  "author": "Cesar Landeros",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
